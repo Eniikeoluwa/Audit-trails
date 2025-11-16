@@ -286,12 +286,6 @@ public async Task<List<AuditEntry>> GetEntityHistoryAsync(string entityType, str
 - **Flexible** - Query and filter your way
 - **Portable** - Works with any data store
 
-## Building the Package
-
-```bash
-cd src/AuditTrails
-dotnet pack -c Release
-```
 
 ## License
 
