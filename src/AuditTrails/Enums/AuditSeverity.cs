@@ -1,4 +1,5 @@
 namespace AuditTrails.Enums;
+
 public enum AuditSeverity
 {
     Information,
