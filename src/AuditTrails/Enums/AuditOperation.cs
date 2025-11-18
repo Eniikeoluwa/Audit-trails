@@ -1,5 +1,4 @@
 namespace AuditTrails.Enums;
-
 public enum AuditOperation
 {
     Create,
